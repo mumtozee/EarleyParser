@@ -1,2 +1,2 @@
 # EarleyParser
-Реализация Алгоритма Эрли для определения принадлежнности слова контекстно-свободному языку на С++.
+Define if a word is in a context-free language using the Earley Algorithm.
